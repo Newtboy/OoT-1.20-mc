@@ -1,0 +1,10 @@
+{
+  "values": [
+    "ocarina_of_time:loop"
+  ],
+  "execute": [
+    {
+      "function": "ocarina_of_time:functions/hookshot"
+    }
+  ]
+}
